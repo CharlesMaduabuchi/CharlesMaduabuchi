@@ -22,9 +22,9 @@ Hello, welcome to my GitHub! I'm a highly motivated **Data Scientist** passionat
 ## 📢 **Let's Connect**  
 I'm open to **collaborations, research, and speaking opportunities**. Feel free to reach out!  
  
-📧 **Email:** jumokeakinyemi52@gmail.com      
-💼 **LinkedIn:** www.linkedin.com/in/jumoke-akinyemi         
-🐦 **Twitter/X:** https://twitter.com/JumokeAkinyemi1
+📧 **Email:** maduabuchicharles12@gmail.com      
+💼 **LinkedIn:** www.linkedin.com/in/charles-maduabuchi-862bab72/         
+🐦 **Twitter/X:** https://twitter.com/symplycharles
  
 
 <!---
