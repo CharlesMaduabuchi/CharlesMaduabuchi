@@ -1,14 +1,15 @@
 
-### **Jumoke Akinyemi**
-### **Data Analyst | Data Scientist**  
+### **Charles Maduabuchi**
+### **Data Scientist**  
 
-Hello, welcome to my GitHub! I'm a highly motivated **Data Analyst & Data Scientist** passionate about **data-driven decision-making, predictive modeling, and business intelligence**. My work involves leveraging **Python, SQL, Excel, Power BI, and Tableau** to extract insights and build scalable solutions.  
+Hello, welcome to my GitHub! I'm a highly motivated **Data Scientist** passionate about **data-driven decision-making, predictive modeling, and business intelligence**. My work involves leveraging **Python, SQL, Excel, Power BI, and Tableau** to extract insights and build scalable solutions.  
 
 🔹 **Areas of Interest:**  
-- Data Analytics & Visualization  
+- Visualization  
 - Machine Learning & AI  
 - Business Intelligence & Product Analytics  
-- Research & Statistical Modeling  
+- Research & Statistical Modeling
+- Project Management
 
 ## **Skills & Tech Stack**  
 📌 **Languages:** Python, SQL  
@@ -27,6 +28,6 @@ I'm open to **collaborations, research, and speaking opportunities**. Feel free 
  
 
 <!---
-JumokeAkinyemi/JumokeAkinyemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CharlesMaduabuchi/CharlesMaduabuchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
