@@ -1,6 +1,6 @@
 
 ### **Charles Maduabuchi**
-### **Data Scientist**  
+### **Data Scientist | Technical Engineer **  
 
 Hello, welcome to my GitHub! I'm a highly motivated **Data Scientist** passionate about **data-driven decision-making, predictive modeling, and business intelligence**. My work involves leveraging **Python, SQL, Excel, Power BI, and Tableau** to extract insights and build scalable solutions.  
 
