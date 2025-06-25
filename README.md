@@ -3,13 +3,11 @@
 
 Hello, welcome to my GitHub! I'm a highly motivated Data Scientist passionate about data-driven decision-making, predictive modelling, and business intelligence. My work involves leveraging Python, SQL, Excel, Power BI, and Tableau to extract insights and build scalable solutions.
 
-🔹 **Areas of Interest:**
-
-Machine Learning & AI
-Visualisation
-Project Management
-Business Intelligence & Product Analytics
-Research & Statistical Modelling
+🔹 **Areas of Interest:**  
+- Visualization  
+- Machine Learning & AI  
+- Business Intelligence & Product Analytics  
+- Research & Statistical Modeling  
 
 ## **Skills & Tech Stack**
 📌 **Languages:** Python, SQL
